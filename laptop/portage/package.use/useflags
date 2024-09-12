@@ -1,0 +1,13 @@
+# required by media-video/obs-studio-30.1.2::gentoo
+# required by media-video/obs-studio (argument)
+media-video/ffmpeg opus x264
+# required by dev-qt/qtwayland-6.7.1::gentoo
+dev-qt/qtbase opengl
+# required by dev-qt/qttranslations-6.7.1::gentoo
+# required by dev-qt/qtbase-6.7.1::gentoo[nls]
+# required by dev-qt/qtwayland-6.7.1::gentoo
+dev-qt/qttools opengl
+# required by dev-libs/quazip-1.4-r1::gentoo
+# required by games-action/prismlauncher-8.2-r1::gentoo[-qt6]
+# required by prismlauncher (argument)
+sys-libs/zlib minizip

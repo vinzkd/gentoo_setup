@@ -1,0 +1,7 @@
+*media-fonts/* -X
+
+app-editors/vim -X
+app-misc/fastfetch -X
+mail-client/thunderbird -X
+sys-apps/flatpak -X
+www-client/firefox -X

@@ -1,0 +1,3 @@
+# required by www-client/torbrowser-launcher-0.3.7::torbrowser
+# required by torbrowser-launcher (argument)
+>=app-crypt/gpgme-1.23.2 python

@@ -1,0 +1,14 @@
+dev-libs/libdbusmenu gtk3
+dev-libs/libusb udev
+virtual/libusb udev
+sys-libs/readline abi_x86_32 
+dev-db/sqlite abi_x86_32
+
+# required by gnome-base/gnome-keyring-42.1-r2::gentoo
+# required by virtual/secret-service-0::gentoo
+# required by app-crypt/libsecret-0.21.1::gentoo
+# required by net-im/discord-0.0.58-r2::gentoo
+# required by net-im/discord (argument)
+app-crypt/gcr gtk
+
+media-libs/libsdl2 gles2

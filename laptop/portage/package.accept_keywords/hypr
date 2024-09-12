@@ -1,0 +1,6 @@
+gui-apps/hyprlock ~amd64
+gui-apps/hypridle ~amd64
+gui-apps/hyprpaper ~amd64
+gui-apps/hyprpicker ~amd64
+gui-apps/hyprshot ~amd64
+app-misc/cliphist ~amd64
