@@ -22,5 +22,10 @@ dev-qt/qtbase eglfs libproxy icu
 # required by @selected
 # required by @world (argument)
 >=dev-qt/qt5compat-6.7.2 icu qml
+# required by dev-qt/qt-creator-14.0.1::gentoo[designer]
+# required by qt-creator (argument)
+>=dev-qt/qttools-6.7.2 designer qml
 
+dev-qt/qtdeclarative qmlls
+dev-qt/qttools qmlls
 dev-qt/qtmultimedia eglfs X

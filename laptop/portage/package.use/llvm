@@ -1,0 +1,5 @@
+# required by media-libs/mesa-24.2.6-r2::gentoo[llvm_slot_18,llvm]
+# required by media-video/obs-studio-31.0.0::gentoo[browser]
+# required by @selected
+# required by @world (argument)
+>=llvm-core/llvm-18.1.8-r6:18 abi_x86_32

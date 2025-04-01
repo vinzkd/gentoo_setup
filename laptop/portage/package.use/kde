@@ -1,0 +1,1 @@
+kde-plasma/plasma-meta -crypt -display-manager gtk -kwallet qt5 -sddm thunderbolt -wallpapers xwayland

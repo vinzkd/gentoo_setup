@@ -1,0 +1,7 @@
+# move dev-python/PyQt6 dev-python/pyqt6
+>=dev-python/pyqt6-6.7.1-r1 quick qml svg
+# required by dev-python/PyQt6-WebEngine-6.7.0::gentoo[widgets]
+# required by app-text/calibre-7.16.0::gentoo[python_single_target_python3_12]
+# required by calibre (argument)
+# move dev-python/PyQt6 dev-python/pyqt6
+>=dev-python/pyqt6-6.7.1-r1 webchannel

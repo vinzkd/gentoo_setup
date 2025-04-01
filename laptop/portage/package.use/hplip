@@ -1,10 +1,11 @@
-net-print/hplip hpcups qt5 scanner
+net-print/hplip hpcups scanner
 # required by net-print/hplip-3.23.12-r3::gentoo[-minimal,snmp]
 # required by hplip (argument)
 >=net-dns/avahi-0.9_rc1 python
 # required by net-print/hplip-3.23.12-r3::gentoo[-minimal,python_single_target_python3_12,qt5]
 # required by hplip (argument)
->=dev-python/PyQt5-5.15.11 gui widgets
+# move dev-python/PyQt5 dev-python/pyqt5
+>=dev-python/pyqt5-5.15.11 gui widgets
 # required by dev-python/reportlab-4.2.2::gentoo
 # required by net-print/hplip-3.23.12-r3::gentoo[-minimal,scanner,python_single_target_python3_12]
 # required by hplip (argument)

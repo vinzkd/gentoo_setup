@@ -1,0 +1,14 @@
+# required by kde-apps/kdenlive-24.08.1::gentoo
+# required by kdenlive (argument)
+>=media-libs/mlt-7.24.0 xml frei0r qt6 sdl
+# required by kde-apps/kdenlive-24.08.1::gentoo
+# required by kdenlive (argument)
+>=media-video/ffmpeg-6.1.1-r8 libass X sdl
+# required by media-libs/mlt-7.24.0::gentoo[sdl]
+# required by kde-apps/kdenlive-24.08.1::gentoo
+# required by kdenlive (argument)
+>=media-libs/libsdl2-2.30.7-r1 X
+# required by kde-frameworks/kfilemetadata-6.6.0::gentoo[pdf]
+# required by kde-apps/kdenlive-24.08.1::gentoo
+# required by kdenlive (argument)
+>=app-text/poppler-24.08.0 qt6

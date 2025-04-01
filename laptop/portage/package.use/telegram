@@ -1,0 +1,4 @@
+net-im/telegram-desktop 
+# required by net-im/telegram-desktop-5.0.4::gentoo
+# required by telegram-desktop (argument)
+>=media-video/ffmpeg-6.1.1-r8 vpx

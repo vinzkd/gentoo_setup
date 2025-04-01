@@ -1,0 +1,5 @@
+# required by media-gfx/imagemagick-7.1.1.25::gentoo[heif]
+# required by media-gfx/digikam-8.4.0-r11::gentoo[imagemagick]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libheif-1.18.1 x265

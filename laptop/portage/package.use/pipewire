@@ -1,1 +1,1 @@
-media-video/pipewire extra flatpak pipewire-alsa sound-server
+media-video/pipewire extra flatpak jack-sdk pipewire-alsa sound-server
